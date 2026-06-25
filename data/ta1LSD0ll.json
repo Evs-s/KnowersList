@@ -1,1 +1,18 @@
-
+{
+    "id": 115151904,
+    "name": "ta1LSD0ll",
+    "author": "ta1LSD0ll",
+    "creators": ["MIRugene", "Galliard", "robtobfreak", "ekzels", "AngaraRiver", "spkgmd", "Antobyy", "Kcool", "Madterz", "rivverr", "Classic10", "rply", "PastelPink", "2003devin"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/kGsys2k9gc8",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/HijlIeLfDjE",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
