@@ -1,1 +1,18 @@
-
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "Emdlevel",
+    "creators": ["Endlevel", "Realvet", "River", "Connected"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/OX8DiADy4h8",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/gq5g60Vk61k",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
