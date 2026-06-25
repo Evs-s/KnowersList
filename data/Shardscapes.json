@@ -1,0 +1,18 @@
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
+    "creators": ["ItzKiba"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/2VIPvyXmmTg",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/ccHZtuPTHsY",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
