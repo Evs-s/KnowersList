@@ -1,1 +1,18 @@
-
+{
+    "id": 93155813,
+    "name": "Rigel",
+    "author": "Dan2D",
+    "creators": ["Dan2D"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/rsxlDMDCOX8",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/oyd_Tyqasu8",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
