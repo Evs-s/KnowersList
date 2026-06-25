@@ -1,27 +1,42 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Evs5",
+        "link": "https://www.youtube.com/@EvsUnderscore"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "geomateyt",
+        "link": "https://www.youtube.com/@geomateyt"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "zSyzygy",
+        "link": "https://www.youtube.com/@GDSyzygy-y9h"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Gamer862",
+        "link": "https://www.youtube.com/@Gamer86200"
+    },
+    {
+        "role": "admin",
+        "name": "zZoomi",
+        "link": "https://www.youtube.com/@zoomigd"
+    },
+    {
+        "role": "admin",
+        "name": "Wiluck",
+        "link": "https://www.youtube.com/@wiluckgd"
+    },
+    {
+        "role": "admin",
+        "name": "strayW",
+        "link": "https://www.youtube.com/@strayww"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Evs5",
+        "link": "https://www.youtube.com/@EvsUnderscore"
     }
 ]
