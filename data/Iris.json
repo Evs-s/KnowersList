@@ -1,0 +1,18 @@
+{
+    "id": 123853954,
+    "name": "IRIS",
+    "author": "Kaza",
+    "creators": ["Kaza", "Skyavoxii ✧", "Nexel"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/_wyqURFNzFk",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/YPnTwEUBC7M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
