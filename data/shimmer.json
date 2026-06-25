@@ -1,0 +1,18 @@
+{
+    "id": 94156085,
+    "name": "shimmer",
+    "author": "Amplitron",
+    "creators": ["Amplitron"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/y5_euZBYkM8",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/GKglZz0Bd0I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
