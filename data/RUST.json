@@ -1,0 +1,30 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/-Y7etpXSASQ",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "strayW",
+            "link": "https://youtu.be/cBBLLRx9M1E",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://youtu.be/YzhPxAcvvNw",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/sm_muXIWNhg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
