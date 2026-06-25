@@ -1,0 +1,18 @@
+{
+    "id": 95675702,
+    "name": "Amalgam",
+    "author": "XLSpiral",
+    "creators": ["XLSpiral"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/soNvAfn1qc0",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/1_7a2LIDgLU",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
