@@ -1,1 +1,18 @@
-
+{
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "Cirtrax",
+    "creators": ["Gizbro"],
+    "verifier": "strayW",
+    "verification": "https://youtu.be/6BKm_oFbyd0",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/diErCIYQ554",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
