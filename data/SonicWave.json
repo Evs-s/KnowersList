@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "112516",
     "records": [
-      https://youtu.be/YLekS_OWwiI
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/YLekS_OWwiI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
