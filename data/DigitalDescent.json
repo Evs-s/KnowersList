@@ -1,1 +1,18 @@
-
+{
+    "id": 37456092,
+    "name": "Digital Descent",
+    "author": "ViPriN",
+    "creators": ["Codex", "Kips", "nasgubb", "Terron", "AbstractDark", "Samifying", "Manix648", "ViPriN", "TheDevon", "Etzer", "Loogiah", "LazerBlitz", "G4lvatron", "Vlacc", "Serponge", "Hinds", "Rustam", "KrmaL"],
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/i30khCqB7t0",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/CXqoFH-pYIw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
