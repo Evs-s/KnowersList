@@ -1,1 +1,18 @@
-
+{
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "ViPriN",
+    "creators": ["Codex", "Shocksidian", "Rustam", "FerdeFunky", "G4lvatron", "nasgubb", "ViPriN", "Enzore", "Samifying", "Vlacc", "TheDevon", "Serponge", "Hinds", "Terron", "Floppy", "FirsGD", "zalspr"],
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/3jOylO49q8k",
+    "percentToQualify": 100,
+    "password": "010721",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/3jOylO49q8k",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
