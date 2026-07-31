@@ -3,16 +3,16 @@
     "name": "shimmer",
     "author": "Amplitron",
     "creators": ["Amplitron"],
-    "verifier": "strayW",
-    "verification": "https://youtu.be/y5_euZBYkM8",
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/GKglZz0Bd0I",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "zSyzygy",
-            "link": "https://youtu.be/GKglZz0Bd0I",
+            "user": "StrayW",
+            "link": "https://youtu.be/y5_euZBYkM8",
             "percent": 100,
-            "hz": 240
+            "hz": 480
         }
     ]
 }
