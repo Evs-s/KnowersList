@@ -1,0 +1,30 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "Evs5",
+    "verification": "https://www.youtube.com/watch?v=GS8-SykIi1s",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=3PIiGtkGdCI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "StrayW",
+            "link": "https://www.youtube.com/watch?v=5jX77kri9qM",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=n-WkUH-AkpE",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
