@@ -1,0 +1,24 @@
+{
+    "id": 62592746,
+    "name": "Tenth Circle",
+    "author": "DeniPol",
+    "creators": ["NormDanchik", "DeniPol"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=XTPoZHosrRA",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "StrayW",
+            "link": "https://www.youtube.com/watch?v=5_3UpveVTDc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
