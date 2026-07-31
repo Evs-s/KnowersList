@@ -1,0 +1,18 @@
+{
+    "id": 27122654,
+    "name": "Artificial Ascent",
+    "author": "ViPriN",
+    "creators": ["ZenthicAlpha", "Serponge", "nasgubb", "lmAnubis", "ViPriN", "GDSpeed", "AbstractDark", "Terron", "Michigun", "Zobros", "Etzer", "Sanic", "Anthrax", "wamiq8", "Codex", "Hinds", "Manix648", "Loogiah", "G4lvatron"],
+    "verifier": "zSyzygy",
+    "verification": "https://www.youtube.com/watch?v=eoYu4jWAMWM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=t-deGZ6khps",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
