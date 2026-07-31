@@ -1,0 +1,18 @@
+{
+    "id": 52113279,
+    "name": "Removed Submission",
+    "author": "WHErwin",
+    "creators": ["WHErwin"],
+    "verifier": "Evs5",
+    "verification": "https://www.youtube.com/watch?v=lznIxIlg6QY",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=EFDx9Ywz_QU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
