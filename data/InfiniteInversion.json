@@ -1,0 +1,18 @@
+{
+    "id": 102807047,
+    "name": "Infinite Inversion",
+    "author": "Filqh",
+    "creators": ["Filqh"],
+    "verifier": "zSyzygy",
+    "verification": "https://www.youtube.com/watch?v=NJSVsDCo32I",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "StrayW",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
