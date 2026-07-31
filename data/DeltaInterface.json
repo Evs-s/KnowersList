@@ -1,0 +1,18 @@
+{
+    "id": 45094581,
+    "name": "Delta Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "StrayW",
+            "link": "https://youtu.be/L7mQ5b6ck_s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
