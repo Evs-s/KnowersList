@@ -1,0 +1,30 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": ["icedcave", "lexycat", "Stormfly"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=hHqm3Kk3LX8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "StrayW",
+            "link": "https://www.youtube.com/watch?v=7pWZXrZycb4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=Jvi69a6dRBk",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
