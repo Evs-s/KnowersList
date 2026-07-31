@@ -1,0 +1,18 @@
+{
+    "id": 95355264,
+    "name": "hot rod",
+    "author": "stcubing",
+    "creators": ["monthmai", "Turnernator", "fajhfkdskl‬", "arclight", "JaSonic", "stcubing", "nadire", "Mari", "clay112"],
+    "verifier": "StrayW",
+    "verification": "https://www.youtube.com/watch?v=IRX6sjXGGZM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=wyYsh5fb-WA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
