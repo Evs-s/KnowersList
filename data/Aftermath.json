@@ -1,0 +1,30 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["Findexi", "Bassiegames", "Rhythmic", "Exenity", "Hinds", "knobbelboy", "Squizz", "Vultra", "Waze"],
+    "verifier": "geomateyt",
+    "verification": "https://www.youtube.com/watch?v=t8TVtKRozNY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "StrayW",
+            "link": "https://www.youtube.com/watch?v=RhLbALMgjQM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Evs5",
+            "link": "https://www.youtube.com/watch?v=EbUA2CtjhBk",
+            "percent": 100,
+            "hz": 720
+        }
+        {
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=kTIPR5Py0E0",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
