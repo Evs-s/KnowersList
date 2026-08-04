@@ -1,0 +1,24 @@
+{
+    "id": 116401475,
+    "name": "Galaxy Gas",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "StrayW",
+    "verification": "https://www.youtube.com/watch?v=JY6WmRsIxUA&t=1s",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Gamer862",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "geomateyt",
+            "link": "https://www.youtube.com/watch?v=a02YjImG7CA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
