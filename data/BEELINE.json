@@ -1,0 +1,18 @@
+{
+    "id": 93792764,
+    "name": "BEELINE (2P)",
+    "author": "Galaxxyss",
+    "creators": ["7AK", "Waffl3x", "Galaxxyss", "MadisonYuko", "pocke"],
+    "verifier": "Evs5", "geomateyt",
+    "verification": "https://www.youtube.com/watch?v=ERIhXrMCMYY",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "StrayW", "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=peEw9ifkm38",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
