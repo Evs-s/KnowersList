@@ -1,1 +1,24 @@
-
+{
+    "id": 25449475,
+    "name": "Fexty",
+    "author": "lSkyJax",
+    "creators": ["Ozpectro"],
+    "verifier": "Gamer862",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "012396",
+    "records": [
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/aRPOO1-ociA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
