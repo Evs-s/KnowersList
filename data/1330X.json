@@ -1,0 +1,18 @@
+{
+    "id": 78374157,
+    "name": "1330X",
+    "author": "ewop",
+    "creators": ["AVRG", "hattoru", "Endlevel", "GrenadeofTacos", "Deadlox", "ewop", "Goobfrudla", "silver"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "strayW",
+            "link": "https://www.youtube.com/watch?v=Oc89MCgWtOg",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
