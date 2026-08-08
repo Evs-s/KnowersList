@@ -21,6 +21,12 @@
             "hz": 165
         },
         {
+            "user": "strayW",
+            "link": "https://www.youtube.com/watch?v=yJuV5QxK_No",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Wiluck",
             "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
             "percent": 100,
@@ -31,12 +37,6 @@
             "link": "https://www.youtube.com/watch?v=ddkdvFUPO-I",
             "percent": 100,
             "hz": 360
-        },     
-        {
-            "user": "StrayW",
-            "link": "https://www.youtube.com/watch?v=yJuV5QxK_No",
-            "percent": 100,
-            "hz": 360
-        }      
+        }
     ]
 }
