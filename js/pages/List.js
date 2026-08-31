@@ -115,7 +115,7 @@ export default {
                         you dont need a video we trust you
                     </p>
                     <p>
-                        this was originally a legacy list rule but we dont have that anymore
+                        dont use secret way
                     </p>
                     <p>
                         dont be like evs and accidentally turn a hack on
