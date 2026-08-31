@@ -115,7 +115,7 @@ export default {
                         you dont need a video we trust you
                     </p>
                     <p>
-                        i dont know how this code works so im gonna put filler rules
+                        this was originally a legacy list rule but we dont have that anymore
                     </p>
                     <p>
                         dont be like evs and accidentally turn a hack on
