@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        beat the level
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        dont hack
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        if u accidentally reset like The Snowbound Incident then itll still be on the list because you beat the level anyways
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        be a knower
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        you dont need a video we trust you
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        i dont know how this code works so im gonna put filler rules
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        dont be like evs and accidentally turn a hack on
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        dont sock
                     </p>
                 </div>
             </div>
