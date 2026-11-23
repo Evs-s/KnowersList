@@ -1,1 +1,18 @@
-
+{
+    "id": 88913586,
+    "name": "Xronier",
+    "author": "zJinobeats",
+    "creators": ["JinoBeats, Zivy"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
