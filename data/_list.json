@@ -172,5 +172,6 @@
     "QuadraticFunction",
     "BrokenSignal",
     "Doradura",
-    "CrowdControl"
+    "CrowdControl",
+    "MiscellaneousMemory"
 ]
