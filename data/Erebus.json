@@ -1,1 +1,24 @@
-
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": ["Rustam, ILRELL"],
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/oXphi8gTcFU?si=JjFfGsTkVoMEGVS8",
+    "percentToQualify": 100,
+    "password": "231846",
+    "records": [
+        {
+            "user": "strayW",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Evs5",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
