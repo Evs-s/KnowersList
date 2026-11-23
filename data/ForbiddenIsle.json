@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "111111",
     "records": [
+        {
+            "user": "strayW",
+            "link": "https://youtu.be/jWZNH7oQa20?si=tWIg3GCXCgV-m2w9",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/UmV0OGLIlxA?si=vVkG7c_keqFHr1mo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/0eLWl4F8fyU?si=9uSlqEGhbsg0R5io&t=149",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
