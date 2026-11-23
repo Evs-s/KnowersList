@@ -1,1 +1,18 @@
-
+{
+    "id": 41149984,
+    "name": "Ithacropolis",
+    "author": "BIGMAC77",
+    "creators": ["BIGMAC77, Joltic, Jowinator19, 00Zero"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+    "percentToQualify": 100,
+    "password": "159357",
+    "records": [
+        {
+            "user": "strayW",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
