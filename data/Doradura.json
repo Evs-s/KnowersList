@@ -1,1 +1,30 @@
-
+{
+    "id": 77114615,
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "creators": ["IvashkaUA"],
+    "verifier": "Evs5",
+    "verification": "https://youtu.be/FNB7JzABNpQ?si=MADdnt_9-K4FRwwK",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/jvBpU2PpMdA?si=614la1SnV-H-UUBg",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "strayW",
+            "link": "https://youtu.be/9QCT89M-TKU?si=5h0798j8XBDWovgp",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "zSyzygy",
+            "link": "https://youtu.be/0eLWl4F8fyU?si=aD9P_5QsG09FTmGz",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
