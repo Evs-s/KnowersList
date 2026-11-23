@@ -1,0 +1,24 @@
+{
+    "id": 93939369,
+    "name": "The Ultimate Demon",
+    "author": "vit12",
+    "creators": ["vit12"],
+    "verifier": "zSyzygy",
+    "verification": "https://youtu.be/3AIXlMeTfQ4?si=xJ-d_QaS5eitzAmf",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Evs5",
+            "link": "https://youtu.be/3jOylO49q8k?si=bOqNeWb4fdof6Rvm",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "geomateyt",
+            "link": "https://youtu.be/zM_3hyL14H8?si=GelcRtwwNabvKFjb",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
